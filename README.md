@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/varunrai?user=varunrai&cardType=github&theme=github-dark&Text=DD9F0D)](https://github.com/varunrai)
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=bear&Title=DDDDDD&Background=C9DDB3">    <img  alt="varunrai's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/varunrai?cardType=level&theme=bear&Title=DDDDDD&Background=C9DDB3" />  </a>
