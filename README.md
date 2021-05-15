@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/varunrai?cardType=github&theme=github-dark&Text=DD9F0D)](https://git.io/awesome-stats-card)
+[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/varunrai?user=varunrai&cardType=github&theme=github-dark&Text=DD9F0D)](https://github.com/varunrai)
 
