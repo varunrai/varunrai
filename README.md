@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/varunrai)](https://git.io/awesome-stats-card)
+
