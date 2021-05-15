@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=bear&Title=DDDDDD&Background=C9DDB3">    <img  alt="varunrai's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/varunrai?cardType=level&theme=bear&Title=DDDDDD&Background=C9DDB3" />  </a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    
+  <img  alt="varunrai's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/varunrai?cardType=github&theme=github-dark" />
+</a>
