@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <p>
-    <img  alt="varunrai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=varunrai&theme=dark&show_icons=true&count_private=true" align="left" />
+    <img  alt="Varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=varunrai&show_icons=true&locale=en&theme=dark&count_private=true" align="left" />
   </p>
 
 <h2>🚀 Some Tools I Use</h2>
