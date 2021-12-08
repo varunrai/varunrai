@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <p>
-    <img  alt="Varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=varunrai&show_icons=true&locale=en&theme=dark&count_private=true" align="left" />
-  </p>
-
+- 🔭 I’m currently working on Cloud Architectures across multi-cloud providers
+- 🌱 I’m currently learning native cloud applications
+- 👯 I’m looking to collaborate on anything related to Cloud
+ 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25" />
@@ -47,4 +47,11 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" height="25" />  
 </p>
 
-<p style="margin: 10px;"><img align="left" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></p>
+#### Checkout - https://blog.trackeroid.space
+
+<p align="left">
+  <img  alt="Varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=varunrai&show_icons=true&locale=en&theme=dark&count_private=true" />
+</p>
+<p align="left">
+    <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
