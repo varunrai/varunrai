@@ -33,11 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" height="25" />  
 </p>
 
-#### Checkout - https://blog.trackeroid.space
 
-<p align="left">
-  <img  alt="Varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=varunrai&show_icons=true&locale=en&theme=dark&count_private=true" />
-</p>
 <p align="left">
     <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
