@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cloud Architectures across multi-cloud providers
-- 🌱 I’m currently learning native cloud application development
-- 👯 I’m looking to collaborate on anything related to Cloud
+
  
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
